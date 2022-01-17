@@ -1,4 +1,3 @@
-i = 1 
 f = 1
 num = int(input("enter a number"))
 
