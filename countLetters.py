@@ -1,6 +1,6 @@
 stri = "VAISAKH"
 lists = list(stri)
-c = 0;
+c = 0
 
 for i in lists:
     c = 0

@@ -1,8 +1,8 @@
 mark1 = int(input("Enter the mark of the First subject 1: "))
-mark2 = int(input("Enter the mark of the First subject 2: "))
-mark3 = int(input("Enter the mark of the First subject 3: "))
-mark4 = int(input("Enter the mark of the First subject 4: "))
-mark5 = int(input("Enter the mark of the First subject 5: "))
+mark2 = int(input("Enter the mark of the subject 2: "))
+mark3 = int(input("Enter the mark of the  subject 3: "))
+mark4 = int(input("Enter the mark of the  subject 4: "))
+mark5 = int(input("Enter the mark of the subject 5: "))
 
 
 total = mark1 + mark2 + mark3 + mark4 + mark5
