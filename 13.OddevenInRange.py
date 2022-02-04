@@ -3,7 +3,7 @@ upper = int(input("enter upper limit"))
 
 print("Even numbers between", lower, "and", upper, "are:")
 
-for num in range(lower, upper + 1):
+for num in range(lower+1, upper):
    # all prime numbers are greater than 1
    if num > 1:
        for i in range(1, num):
